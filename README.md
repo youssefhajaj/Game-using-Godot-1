@@ -9,7 +9,7 @@ To get started with the Game, follow these simple steps:
    Clone this repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/Youshaj-GodotGamesDevelopement/[your-repo-name].git
+   git clone https://github.com/Youshaj/Game-using-Godot-1.git
 2. **Open in Godot Engine**:
     Open the project folder in the Godot Engine.
 
