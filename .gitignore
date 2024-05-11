@@ -13,3 +13,8 @@ export_presets.cfg
 .mono/
 data_*/
 mono_crash.*.json
+
+# Ignore images in the screenshots folder
+ScreenShots/*.png
+ScreenShots/*.jpg
+ScreenShots/*.jpeg
