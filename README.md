@@ -10,10 +10,13 @@ To get started with the Game, follow these simple steps:
 
    ```bash
    git clone https://github.com/yousshaj/Game-using-Godot-1.git
-2. **Open in Godot Engine**:
+2. **Go inside the Folder**: 
+   ```bash
+   cd Godot
+3. **Open in Godot Engine**:
     Open the project folder in the Godot Engine.
 
-3. **Run the Game**:
+4. **Run the Game**:
     Open the main scene file in Godot and run the game.
 
 
