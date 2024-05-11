@@ -17,8 +17,8 @@ To get started with the Game, follow these simple steps:
     Open the main scene file in Godot and run the game.
 
 
-![Game Screenshot](1.png)
-![Game Screenshot](2.png)
-![Game Screenshot](3.png)
-![Game Screenshot](4.png)
-![Game Screenshot](5.png)
+![Game Screenshot](/ScreenShots/1.png)
+![Game Screenshot](/ScreenShots/2.png)
+![Game Screenshot](/ScreenShots/3.png)
+![Game Screenshot](/ScreenShots/4.png)
+![Game Screenshot](/ScreenShots/5.png)
